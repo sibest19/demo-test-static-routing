@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { RouteComponentComponent } from './route-component/route-component.component';
 
 import { RouterModule } from '@angular/router';
-import Constants from './constants';
+import { Constants } from './constants';
 
 
 @NgModule({

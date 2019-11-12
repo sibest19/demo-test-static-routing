@@ -1,3 +1,3 @@
-export default class Constants {
-  static readonly defaultUrl = 'defaultRoute';
-}
+export const Constants = {
+  defaultUrl: 'defaultRoute',
+};
